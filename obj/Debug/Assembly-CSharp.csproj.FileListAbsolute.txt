@@ -1,0 +1,2 @@
+C:\Users\MirzaM4179\Desktop\SurvivalShooter\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\MirzaM4179\Desktop\SurvivalShooter\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
