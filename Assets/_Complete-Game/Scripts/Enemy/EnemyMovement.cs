@@ -8,7 +8,7 @@ namespace CompleteProject
         Transform player;               // Reference to the player's position.
         PlayerHealth playerHealth;      // Reference to the player's health.
         EnemyHealth enemyHealth;        // Reference to this enemy's health.
-        UnityEngine.AI.NavMeshAgent nav;               // Reference to the nav mesh agent.
+        UnityEngine.AI.NavMeshAgent nav; // Reference to the nav mesh agent.
 
 
         void Awake ()
